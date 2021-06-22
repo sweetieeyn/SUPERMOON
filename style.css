@@ -1,0 +1,43 @@
+.navbar-brand{
+    color: rgb(177, 98, 137);
+}
+
+.seksyen1{
+  background-color: palevioletred;
+    padding: 7% 15% 7%;
+}
+
+.heading-headingSUPERMOON{
+    color: yellow;
+    font-size: 2.5rem;
+}
+
+.tema{
+    color: rgb(24, 241, 241);
+}
+
+.seksyen2{
+    background-color: rgb(219, 121, 206);
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.seksyen4{
+    background-color: hotpink;
+    padding: 5%;
+    text-align: center;
+}
+
+.footer{
+    background-color:beige;
+    padding: 2%;
+    text-align:center;
+}
